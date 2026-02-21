@@ -17,19 +17,10 @@ This application checks if a given number is palindromic. A palindromic number i
    ```bash
    cd Palindromic-number-detector
    ```
-3. Install the necessary dependencies (if any):
+3. Run with any compiler:
    ```bash
-   npm install
+   main.cpp
    ```
-
-## Usage
-Run the application using:
-```bash
-npm start
-```
 
 ## Contributing
 If you want to contribute, feel free to create a pull request or open an issue for discussion.
-
-## License
-This project is licensed under the MIT License.
