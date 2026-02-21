@@ -17,9 +17,9 @@ This application checks if a given number is palindromic. A palindromic number i
    ```bash
    cd Palindromic-number-detector
    ```
-3. Run with any compiler:
+3. Run the game after compiling:
    ```bash
-   main.cpp
+   main.exe
    ```
 
 ## Contributing
